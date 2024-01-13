@@ -1,0 +1,26 @@
+name: cats? #tucked・in・kitties
+originalAuthor: Shananas
+assets:
+- name: obj/F_HE030_L.mdlx
+  type: copy
+  source:
+  - name: F_HE030_L.mdlx
+- name: obj/N_HE020_BTL.mdlx
+  type: copy
+  source:
+  - name: N_HE020_BTL.mdlx
+- method: binarc
+  multi:
+  - name: msg/jp/sys.bar
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  name: msg/us/sys.bar
+  source:
+  - method: kh2msg
+    name: sys
+    source:
+    - language: en
+      name: sys.yml
+    type: list
