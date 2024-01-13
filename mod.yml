@@ -4,11 +4,11 @@ game: kh2
 description: "cats? #tucked・in・kitties"
 assets:
 - name: obj/F_HE030_L.mdlx
-  type: copy
+  method: copy
   source:
   - name: F_HE030_L.mdlx
 - name: obj/N_HE020_BTL.mdlx
-  type: copy
+  method: copy
   source:
   - name: N_HE020_BTL.mdlx
 - method: binarc
