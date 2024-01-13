@@ -1,5 +1,6 @@
 name: cats? #tucked・in・kitties
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/F_HE030_L.mdlx
   type: copy
