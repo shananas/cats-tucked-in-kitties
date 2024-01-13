@@ -19,6 +19,10 @@ assets:
   method: copy
   source:
   - name: obj/F_HE600.mdlx
+- name: remastered/itempic/item-234.imd/-0.dds
+  method: copy
+  source:
+  - name: -0.dds
 - method: binarc
   multi:
   - name: msg/jp/sys.bar
