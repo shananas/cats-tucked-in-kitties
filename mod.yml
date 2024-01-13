@@ -6,11 +6,19 @@ assets:
 - name: obj/F_HE030_L.mdlx
   method: copy
   source:
-  - name: F_HE030_L.mdlx
+  - name: obj/F_HE030_L.mdlx
 - name: obj/N_HE020_BTL.mdlx
   method: copy
   source:
-  - name: N_HE020_BTL.mdlx
+  - name: obj/N_HE020_BTL.mdlx
+#- name: obj/F_HE030_S.mdlx
+#  method: copy
+#  source:
+#  - name: obj/F_HE030_S.mdlx
+- name: obj/F_HE600.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE600.mdlx
 - method: binarc
   multi:
   - name: msg/jp/sys.bar
