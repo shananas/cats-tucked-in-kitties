@@ -11,10 +11,10 @@ assets:
   method: copy
   source:
   - name: obj/N_HE020_BTL.mdlx
-#- name: obj/F_HE030_S.mdlx
-#  method: copy
-#  source:
-#  - name: obj/F_HE030_S.mdlx
+- name: obj/F_HE030_S.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE030_S.mdlx
 - name: obj/F_HE600.mdlx
   method: copy
   source:
